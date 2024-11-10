@@ -1,5 +1,5 @@
 # freemailers
-[![chat with me on X](https://img.shields.io/badge/any_text-you_like-blue)](https://x.com/daemkl)
+[![chat with me on X](https://img.shields.io/badge/chat_with-me_on-x)](https://x.com/daemkl)
 
 Perfect to programmaticaly identify free email providers.
 
