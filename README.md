@@ -1,5 +1,4 @@
 # freemailers
-[![chat with me on X](https://img.shields.io/badge/Chat_with-me_on_X-x)](https://x.com/daemkl)
 
 Perfect to programmaticaly identify free email providers.
 
